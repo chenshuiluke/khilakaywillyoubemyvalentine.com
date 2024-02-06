@@ -55,7 +55,7 @@ export default function FlyingHeart() {
         bottom: 0,
         left:
           Math.random() *
-          (typeof window != "undefined" ? window.innerWidth : 2000),
+          (typeof window != "undefined" ? window.innerWidth : 4000),
       }}
     >
       <svg

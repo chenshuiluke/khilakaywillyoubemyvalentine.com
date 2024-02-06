@@ -15,8 +15,8 @@ import FlyingHeart from "./components/flying_heart";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      {Array.from(Array(100).keys()).map(() => {
-        return <FlyingHeart />;
+      {Array.from(Array(100).keys()).map((el) => {
+        return <FlyingHeart key={el} />;
       })}
     </main>
   );

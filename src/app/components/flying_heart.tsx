@@ -51,7 +51,7 @@ export default function FlyingHeart() {
       whileTap={{ scale: 3 }}
       transition={{ duration: 0.5 }}
       style={{
-        position: "absolute",
+        position: "fixed",
         bottom: 0,
         left:
           Math.random() *

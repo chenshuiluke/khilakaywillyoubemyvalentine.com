@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -19,6 +19,16 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: hsla( 329.01098901,80.53097345%,77.84313725% ,1)
+}
+
+.heading {
+  font-family: 'Protest Riot', sans-serif;
+  font-size: 42px;
+  
+}
+.colored {
+  color: #F9f1cc;
+  text-shadow: 2px 2px 0px #FFB650, 4px 4px 0px #FFD662, 6px 6px 0px #FF80BF, 8px 8px 0px #EF5097, 10px 10px 0px #6868AC;
 }
 
 @layer utilities {

@@ -53,7 +53,9 @@ export default function FlyingHeart() {
       style={{
         position: "absolute",
         bottom: 0,
-        left: Math.random() * window.innerWidth,
+        left:
+          Math.random() *
+          (typeof window != "undefined" ? window.innerWidth : 2000),
       }}
     >
       <svg

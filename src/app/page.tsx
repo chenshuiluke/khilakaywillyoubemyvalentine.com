@@ -12,7 +12,7 @@ import {
 } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
 import FlyingHeart from "./components/flying_heart";
-import Painting from "../../public/painting.png";
+import Painting from "../../public/painting.jpg";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24">

@@ -144,7 +144,7 @@ export default function Home() {
         When we first matched on Tinder, I could tell that you were a woman of
         remarkable intelligence and beauty. I thoroughly enjoyed talking to you
         in the week leading up to our first date. When I first lay my eyes on
-        you, I thought you were adorable short and I had a lot of fun hanging
+        you, I thought you were adorably short and I had a lot of fun hanging
         out with you. I remember you took me to a great jerk chicken spot and we
         had a great conversation in the car afterwards. Ever since then, I have
         been obsessed with you even if I sometimes struggle with expressing it

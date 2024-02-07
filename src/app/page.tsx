@@ -27,8 +27,8 @@ export default function Home() {
       <h1 className="heading colored">Khilakay...</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image
@@ -40,8 +40,8 @@ export default function Home() {
       <h1 className="heading">This was you before we met</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <video loop autoPlay muted>
@@ -56,8 +56,8 @@ export default function Home() {
       <h1 className="heading">This was me before we met</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image
@@ -70,8 +70,8 @@ export default function Home() {
       <h1 className="heading">But after me start eat your tun up food...</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image
@@ -83,8 +83,8 @@ export default function Home() {
       <h1 className="heading">...and gave you some good good backshots...</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image
@@ -96,8 +96,8 @@ export default function Home() {
       <h1 className="heading">...and got some of ur good loving...</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image
@@ -111,8 +111,8 @@ export default function Home() {
       </h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image
@@ -128,8 +128,8 @@ export default function Home() {
       <h1 className="heading colored">You</h1>
       <motion.div
         className="frame"
-        initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
-        whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
+        //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
+        //// whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}
       >
         <Image

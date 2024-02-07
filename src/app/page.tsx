@@ -148,12 +148,12 @@ export default function Home() {
         out with you. I remember you took me to a great jerk chicken spot and we
         had a great conversation in the car afterwards. Ever since then, I have
         been obsessed with you even if I sometimes struggle with expressing it
-        due to how I am. We've had our ups and downs and at first it was tough
-        to adjust to certain things you wanted me to do. But I could always tell
-        that most of the things you want me to do had my best interest at heart.
-        I've grown a lot as a man since I first met you and that was only a few
-        months ago. I can only imagine how much I'll grow while spending the
-        rest of my life with you.
+        due to how I am. We&apos;ve had our ups and downs and at first it was
+        tough to adjust to certain things you wanted me to do. But I could
+        always tell that most of the things you want me to do had my best
+        interest at heart. I&apos;ve grown a lot as a man since I first met you
+        and that was only a few months ago. I can only imagine how much
+        I&apos;ll grow while spending the rest of my life with you.
       </p>
       <p className="paper">
         So Khilakay, will you do me the honor of being my Valentine?

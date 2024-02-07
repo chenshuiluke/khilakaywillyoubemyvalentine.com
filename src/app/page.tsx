@@ -122,7 +122,8 @@ export default function Home() {
         />
       </motion.div>
       <h1 className="heading">
-        I'm now the happiest I've ever been in my life and it's all because of
+        I&apos;m now the happiest I&apos;ve ever been in my life and it&apos;s
+        all because of
       </h1>
       <h1 className="heading colored">You</h1>
       <motion.div

@@ -24,7 +24,7 @@ body {
 .heading {
   font-family: 'Protest Riot', sans-serif;
   font-size: 42px;
-  
+  text-align: center;
 }
 .colored {
   color: #F9f1cc;
@@ -50,7 +50,7 @@ body {
   box-sizing:border-box;
   display:inline-block;
   margin:10vh 10vw;
-  height:120vh;
+  /* height:120vh; */
   padding:8vmin;
   position:relative;
   text-align:center;
@@ -73,5 +73,18 @@ body {
     position:absolute;
     right:-2.5vmin;
     top:-2.5vmin;
+  }
+
+  
+}
+
+@media screen and (max-width: 900px) {
+  main {
+    margin: 0px auto;
+    padding: 0px;
+  }
+  .frame {
+    margin: 0px;
+    padding: 0px;
   }
 }

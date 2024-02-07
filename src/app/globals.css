@@ -36,7 +36,9 @@ body {
     text-wrap: balance;
   }
 }
-
+ img {
+  max-height: 90vh;
+ }
 
 .frame {
   background-color:#ddc;
@@ -50,7 +52,7 @@ body {
   box-sizing:border-box;
   display:inline-block;
   margin:10vh 10vw;
-  /* height:120vh; */
+  /* max-height:120vh;  */
   padding:8vmin;
   position:relative;
   text-align:center;
@@ -75,7 +77,6 @@ body {
     top:-2.5vmin;
   }
 
-  
 }
 
 @media screen and (max-width: 900px) {

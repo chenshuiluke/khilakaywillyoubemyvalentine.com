@@ -95,7 +95,7 @@ export default function Home() {
       </motion.div>
       <h1 className="heading">...and got some of ur good loving...</h1>
       <motion.div
-        className="frame"
+        className="frame rotated"
         //initial={{ transform: `rotate(-10deg) translate(-100%, 0)` }}
         // whileInView={{ transform: `rotate(0deg) translate(0%, 0)` }}
         transition={{ duration: 2 }}

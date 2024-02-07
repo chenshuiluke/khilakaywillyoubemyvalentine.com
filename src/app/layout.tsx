@@ -26,6 +26,10 @@ export default function RootLayout({
         href="https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap"
         rel="stylesheet"
       ></link>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Protest+Riot&family=Swanky+and+Moo+Moo&display=swap"
+        rel="stylesheet"
+      />
       <body className={inter.className}>{children}</body>
     </html>
   );

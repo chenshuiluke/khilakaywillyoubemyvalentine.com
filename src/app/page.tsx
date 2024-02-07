@@ -138,9 +138,26 @@ export default function Home() {
           style={{ width: "auto" }}
         />
       </motion.div>
-      {/* <h1 className="heading">
-        would you do me the honor of being my Valentine?
-      </h1> */}
+
+      <p className="paper">
+        Dear Khilakay, I had a good feeling about you from when we first met.
+        When we first matched on Tinder, I could tell that you were a woman of
+        remarkable intelligence and beauty. I thoroughly enjoyed talking to you
+        in the week leading up to our first date. When I first lay my eyes on
+        you, I thought you were adorable short and I had a lot of fun hanging
+        out with you. I remember you took me to a great jerk chicken spot and we
+        had a great conversation in the car afterwards. Ever since then, I have
+        been obsessed with you even if I sometimes struggle with expressing it
+        due to how I am. We've had our ups and downs and at first it was tough
+        to adjust to certain things you wanted me to do. But I could always tell
+        that most of the things you want me to do had my best interest at heart.
+        I've grown a lot as a man since I first met you and that was only a few
+        months ago. I can only imagine how much I'll grow while spending the
+        rest of my life with you.
+      </p>
+      <p className="paper">
+        So Khilakay, will you do me the honor of being my Valentine?
+      </p>
       <div>
         {Array.from(Array(50).keys()).map((el) => {
           return <FlyingHeart key={el} />;
